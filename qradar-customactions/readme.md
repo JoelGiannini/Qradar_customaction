@@ -21,7 +21,4 @@ Requirements:
 Transport ldap user:
 UPRORSAQ
 
-Implementation document:
-  
-  https://docs.google.com/document/d/1HrU6xEqC4Tdnu_Ob_h34k_3DDRuFscG56nFpmWxWksQ/edit#heading=h.n6rfq1l0s86i
 
